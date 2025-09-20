@@ -1,0 +1,2 @@
+# VSCodeCVUT
+My programs and codes all in one place, editable on any machine
