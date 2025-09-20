@@ -37,4 +37,3 @@ if longest == 0:
     print(0, 0, 0)
 else:
     print(longestindex, longest, longestsum)
-print("Does editing work ?")
