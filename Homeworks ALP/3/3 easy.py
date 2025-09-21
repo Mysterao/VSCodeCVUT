@@ -57,4 +57,6 @@ if list != 1:
         if len(divisors(list[i])) >= max_length:
             index_max_length = i
             max_length = len(list_of_divisors)
-    
+    for i in range(len(matrix[index_max_length])):
+        for j in range(len(matrix)):
+            if matrix[index_max_length][i] in matrix[j]
